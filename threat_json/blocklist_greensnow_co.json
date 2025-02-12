@@ -1,0 +1,5 @@
+{
+    "blocklist.greensnow.co": {
+        "error": "HTTPSConnectionPool(host='www.malwaredomainlist.com', port=443): Max retries exceeded with url: /hostslist/mdl.xml (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f34849f8b20>, 'Connection to www.malwaredomainlist.com timed out. (connect timeout=15)'))"
+    }
+}
